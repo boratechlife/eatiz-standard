@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-2xl font-bold">Welcome to Vue3Stackter, {{ name }}</h1>
+    <h1 class="text-2xl font-bold font-inter outline-blue">Welcome to Vue3Stackter, {{ name }}</h1>
 
     <div class="mt-8">
         <input
